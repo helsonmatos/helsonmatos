@@ -2,9 +2,7 @@
 - 👀 I am interested in data analysis, machine learning, and sports betting.
 - 🌱 I am currently learning machine learning, deep learning, power bi, excel and SQL.
 - 💞️ I am looking to collaborate on simple and challenging projects.
-- 📫 How to reach me:
-Instagram: @helsonmatos
-LinkedIn: www.linkedin.com/in/helsonmatos
+- 📫 How to reach me: Instagram: @helsonmatos LinkedIn: www.linkedin.com/in/helsonmatos
 
 <!---
 helsonmatos/helsonmatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
