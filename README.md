@@ -4,16 +4,11 @@
   <p align="center">Estudo Desenvolvimento De Sistemas no SENAI BA </p>
 </div>
 
-
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
 <div align="center">
 <!-- -->
   <a href="https://github.com/helsonmatos">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=helsonmatos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helsonmatos&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -21,11 +16,10 @@
 <!-- -->
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
 </div><br>
 
 <div align="center">
@@ -39,7 +33,7 @@
 
 
 <div align="center">
-  <!-- -->
+  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
